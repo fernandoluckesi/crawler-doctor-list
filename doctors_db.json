@@ -1,0 +1,504 @@
+{
+  "doctors": [
+    {
+      "name": "Aabenma Silva Ribeiro",
+      "crm": "29278-GO",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Andrade Napoleao Lima",
+      "crm": "194528-SP",
+      "specialty": "DERMATOLOGIA - RQE N\u00ba: 91483"
+    },
+    {
+      "name": "Aarao Burlamaqui Benchimol",
+      "crm": "6379-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Carajas Dias dos Santos",
+      "crm": "10413-PA",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Carajas Dias dos Santos",
+      "crm": "23153-PE",
+      "specialty": "MEDICINA DE FAM\u00cdLIA E COMUNIDADE - RQE N\u00ba: 4765 ACUPUNTURA - RQE N\u00ba: 4764"
+    },
+    {
+      "name": "Aarao Cruz Mendes",
+      "crm": "1803-PI",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao de Almeida Fernandes",
+      "crm": "154092-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Goncalves de Oliveira Barreto",
+      "crm": "18420-PE",
+      "specialty": "MEDICINA INTENSIVA - RQE N\u00ba: 8097"
+    },
+    {
+      "name": "Aarao Isaac Serruya",
+      "crm": "1895-PA",
+      "specialty": "CARDIOLOGIA - RQE N\u00ba: 121"
+    },
+    {
+      "name": "Aarao Isaac Serruya",
+      "crm": "103094-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Isaac Serruya",
+      "crm": "56259-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Isaac Serruya",
+      "crm": "2928-AM",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Jacob Alves",
+      "crm": "11831-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Mendes Pinto Neto",
+      "crm": "41132-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Moyses Serrulha",
+      "crm": "3523-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Salomao Cohen Junior",
+      "crm": "10208-BA",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Salomao Cohen Junior",
+      "crm": "436023-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Ackermann",
+      "crm": "1809-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Alarcon Novillo",
+      "crm": "12487-ES",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Alarcon Novillo",
+      "crm": "993972-RJ",
+      "specialty": "RADIOLOGIA E DIAGN\u00d3STICO POR IMAGEM - RQE N\u00ba: 29965"
+    },
+    {
+      "name": "Aaron Baptista Dornelles",
+      "crm": "1215442-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Belczak Reinert",
+      "crm": "28399-PR",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron da Costa Telles",
+      "crm": "73568-MG",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron da Costa Telles",
+      "crm": "202768-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Essio Pereira Grandizoli",
+      "crm": "223536-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Froede Santos",
+      "crm": "5038-RO",
+      "specialty": "ONCOLOGIA CL\u00cdNICA - RQE N\u00ba: 1535"
+    },
+    {
+      "name": "Aaron Froede Santos",
+      "crm": "914959-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Froede Santos",
+      "crm": "165509-SP",
+      "specialty": "ONCOLOGIA CL\u00cdNICA - RQE N\u00ba: 77472"
+    },
+    {
+      "name": "Aaron Froede Santos",
+      "crm": "10457-ES",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Paulo Tavares Delladona",
+      "crm": "232736-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Paulo Tavares Delladona",
+      "crm": "86221-MG",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Rinhel Souza Ferreira da Silva",
+      "crm": "209595-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Rodrigues Gomes",
+      "crm": "2702-AC",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Scheidmandel Muller",
+      "crm": "22853-SC",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Scheidmandel Muller",
+      "crm": "41090-RS",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aar\u00e3o Andrade Napole\u00e3o Lima",
+      "crm": "6943-PI",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aar\u00e3o de Almeida Fernandes",
+      "crm": "5789-RN",
+      "specialty": "RADIOLOGIA E DIAGN\u00d3STICO POR IMAGEM - RQE N\u00ba: 2300"
+    },
+    {
+      "name": "Aar\u00e3o Moskowiski Pinto de Andrade",
+      "crm": "11520-MT",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aar\u00e3o Salom\u00e3o Cohen J\u00fanior",
+      "crm": "27499-MG",
+      "specialty": "MEDICINA DO TRABALHO - RQE N\u00ba: 6845"
+    },
+    {
+      "name": "Abad Oliveira Souza Junior",
+      "crm": "36783-PR",
+      "specialty": "MEDICINA DO TRABALHO - RQE N\u00ba: 21216"
+    },
+    {
+      "name": "Abad Oliveira Souza Junior",
+      "crm": "158179-SP",
+      "specialty": "MEDICINA DO TRABALHO - RQE N\u00ba: 52507"
+    },
+    {
+      "name": "Abadia Evilin Fragoso do Nascimento",
+      "crm": "10327-AM",
+      "specialty": "OTORRINOLARINGOLOGIA - RQE N\u00ba: 5306"
+    },
+    {
+      "name": "Abadia Gilda Buso Matoso",
+      "crm": "28332-MG",
+      "specialty": "GASTROENTEROLOGIA - RQE N\u00ba: 23179"
+    },
+    {
+      "name": "Abadia Imaculada Ferreira de Oliveira",
+      "crm": "3133-DF",
+      "specialty": "PEDIATRIA - RQE N\u00ba: 5237 (\u00c1reas de atua\u00e7\u00e3o: Neonatologia - RQE N\u00ba: 15322)  ACUPUNTURA - RQE N\u00ba: 15321"
+    },
+    {
+      "name": "Abadia Rocha Finholdt",
+      "crm": "46191-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Abadia Rocha Finholdt",
+      "crm": "10464-MG",
+      "specialty": "MEDICINA DO TRABALHO - RQE N\u00ba: 16214"
+    },
+    {
+      "name": "Abadio Gon\u00e7alves Caetano",
+      "crm": "14106-MG",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Abadio Jose Silva",
+      "crm": "15507-BA",
+      "specialty": "UROLOGIA - RQE N\u00ba: 711"
+    },
+    {
+      "name": "Abadio Jos\u00e9 Silva",
+      "crm": "23325-MG",
+      "specialty": "UROLOGIA - RQE N\u00ba: 13214 MEDICINA DO TRABALHO - RQE N\u00ba: 34790 MEDICINA DE TR\u00c1FEGO - RQE N\u00ba: 38536"
+    },
+    {
+      "name": "Abadio Jos\u00e9 Silva.",
+      "crm": "711-RR",
+      "specialty": "UROLOGIA - RQE N\u00ba: 727"
+    },
+    {
+      "name": "Aabenma Silva Ribeiro",
+      "crm": "29278-GO",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Andrade Napoleao Lima",
+      "crm": "194528-SP",
+      "specialty": "DERMATOLOGIA - RQE N\u00ba: 91483"
+    },
+    {
+      "name": "Aarao Burlamaqui Benchimol",
+      "crm": "6379-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Carajas Dias dos Santos",
+      "crm": "10413-PA",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Carajas Dias dos Santos",
+      "crm": "23153-PE",
+      "specialty": "MEDICINA DE FAM\u00cdLIA E COMUNIDADE - RQE N\u00ba: 4765 ACUPUNTURA - RQE N\u00ba: 4764"
+    },
+    {
+      "name": "Aarao Cruz Mendes",
+      "crm": "1803-PI",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao de Almeida Fernandes",
+      "crm": "154092-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Goncalves de Oliveira Barreto",
+      "crm": "18420-PE",
+      "specialty": "MEDICINA INTENSIVA - RQE N\u00ba: 8097"
+    },
+    {
+      "name": "Aarao Isaac Serruya",
+      "crm": "1895-PA",
+      "specialty": "CARDIOLOGIA - RQE N\u00ba: 121"
+    },
+    {
+      "name": "Aarao Isaac Serruya",
+      "crm": "103094-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Isaac Serruya",
+      "crm": "56259-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Isaac Serruya",
+      "crm": "2928-AM",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Jacob Alves",
+      "crm": "11831-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Mendes Pinto Neto",
+      "crm": "41132-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Moyses Serrulha",
+      "crm": "3523-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Salomao Cohen Junior",
+      "crm": "10208-BA",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aarao Salomao Cohen Junior",
+      "crm": "436023-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Ackermann",
+      "crm": "1809-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Alarcon Novillo",
+      "crm": "12487-ES",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Alarcon Novillo",
+      "crm": "993972-RJ",
+      "specialty": "RADIOLOGIA E DIAGN\u00d3STICO POR IMAGEM - RQE N\u00ba: 29965"
+    },
+    {
+      "name": "Aaron Baptista Dornelles",
+      "crm": "1215442-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Belczak Reinert",
+      "crm": "28399-PR",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron da Costa Telles",
+      "crm": "73568-MG",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron da Costa Telles",
+      "crm": "202768-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Essio Pereira Grandizoli",
+      "crm": "223536-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Froede Santos",
+      "crm": "5038-RO",
+      "specialty": "ONCOLOGIA CL\u00cdNICA - RQE N\u00ba: 1535"
+    },
+    {
+      "name": "Aaron Froede Santos",
+      "crm": "914959-RJ",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Froede Santos",
+      "crm": "165509-SP",
+      "specialty": "ONCOLOGIA CL\u00cdNICA - RQE N\u00ba: 77472"
+    },
+    {
+      "name": "Aaron Froede Santos",
+      "crm": "10457-ES",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Paulo Tavares Delladona",
+      "crm": "232736-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Paulo Tavares Delladona",
+      "crm": "86221-MG",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Rinhel Souza Ferreira da Silva",
+      "crm": "209595-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Rodrigues Gomes",
+      "crm": "2702-AC",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Scheidmandel Muller",
+      "crm": "22853-SC",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aaron Scheidmandel Muller",
+      "crm": "41090-RS",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aar\u00e3o Andrade Napole\u00e3o Lima",
+      "crm": "6943-PI",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aar\u00e3o de Almeida Fernandes",
+      "crm": "5789-RN",
+      "specialty": "RADIOLOGIA E DIAGN\u00d3STICO POR IMAGEM - RQE N\u00ba: 2300"
+    },
+    {
+      "name": "Aar\u00e3o Moskowiski Pinto de Andrade",
+      "crm": "11520-MT",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Aar\u00e3o Salom\u00e3o Cohen J\u00fanior",
+      "crm": "27499-MG",
+      "specialty": "MEDICINA DO TRABALHO - RQE N\u00ba: 6845"
+    },
+    {
+      "name": "Abad Oliveira Souza Junior",
+      "crm": "36783-PR",
+      "specialty": "MEDICINA DO TRABALHO - RQE N\u00ba: 21216"
+    },
+    {
+      "name": "Abad Oliveira Souza Junior",
+      "crm": "158179-SP",
+      "specialty": "MEDICINA DO TRABALHO - RQE N\u00ba: 52507"
+    },
+    {
+      "name": "Abadia Evilin Fragoso do Nascimento",
+      "crm": "10327-AM",
+      "specialty": "OTORRINOLARINGOLOGIA - RQE N\u00ba: 5306"
+    },
+    {
+      "name": "Abadia Gilda Buso Matoso",
+      "crm": "28332-MG",
+      "specialty": "GASTROENTEROLOGIA - RQE N\u00ba: 23179"
+    },
+    {
+      "name": "Abadia Imaculada Ferreira de Oliveira",
+      "crm": "3133-DF",
+      "specialty": "PEDIATRIA - RQE N\u00ba: 5237 (\u00c1reas de atua\u00e7\u00e3o: Neonatologia - RQE N\u00ba: 15322)  ACUPUNTURA - RQE N\u00ba: 15321"
+    },
+    {
+      "name": "Abadia Rocha Finholdt",
+      "crm": "46191-SP",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Abadia Rocha Finholdt",
+      "crm": "10464-MG",
+      "specialty": "MEDICINA DO TRABALHO - RQE N\u00ba: 16214"
+    },
+    {
+      "name": "Abadio Gon\u00e7alves Caetano",
+      "crm": "14106-MG",
+      "specialty": "M\u00e9dico sem especialidade registrada"
+    },
+    {
+      "name": "Abadio Jose Silva",
+      "crm": "15507-BA",
+      "specialty": "UROLOGIA - RQE N\u00ba: 711"
+    },
+    {
+      "name": "Abadio Jos\u00e9 Silva",
+      "crm": "23325-MG",
+      "specialty": "UROLOGIA - RQE N\u00ba: 13214 MEDICINA DO TRABALHO - RQE N\u00ba: 34790 MEDICINA DE TR\u00c1FEGO - RQE N\u00ba: 38536"
+    },
+    {
+      "name": "Abadio Jos\u00e9 Silva.",
+      "crm": "711-RR",
+      "specialty": "UROLOGIA - RQE N\u00ba: 727"
+    }
+  ]
+}

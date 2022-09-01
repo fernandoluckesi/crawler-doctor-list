@@ -17,7 +17,23 @@ driver = webdriver.Firefox()
 
 driver.get(URL_BASE)
 
+def save_doctor(doctor):
+  
+
+  with open("doctors_db.json") as file:
+    doctors = json.load(file)["doctors"]
+    doctors.append(doctor)
+
+  with open("doctors_db.json", "w") as file:
+    data = {
+      "doctors": doctors
+    } 
+    json.dump(data, file)
+    
+
+
 def search_doctors_btn_click():
+  driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
   search_btn = driver.find_element(By.XPATH, "//button[@class='w-100 btn-buscar btnPesquisar']")
   search_btn.click()
   
@@ -32,11 +48,27 @@ def get_doctors_on_page():
       html_content = doctor.get_attribute('outerHTML')
       soup = BeautifulSoup(html_content, 'html.parser')
       doctor_name = soup.find(name='h4').string
-      print(doctor_name)
+      get_doctor_crm = soup.find('div', attrs = {'class':'col-md-4'}).text
+      doctor_crm = get_doctor_crm[6:].strip()
+      doctor_specialist = ""
+      get_doctor_specialists = soup.find_all('div', attrs = {'class':'col-md-12'})
+      last_item_doctor_specialist = get_doctor_specialists[len(get_doctor_specialists) - 1].text
+      if "Médico sem especialidade registrada" not in last_item_doctor_specialist:
+        doctor_specialist = last_item_doctor_specialist
+      else:
+        doctor_specialist = "Médico sem especialidade registrada"
+      doctor_data = {
+        "name": doctor_name,
+        "crm": doctor_crm,
+        "specialty": doctor_specialist
+      }
+      save_doctor(doctor_data)
+      print(doctor_data)
     return doctors
 
 
 def next_page(page_number):
+  driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
   next_page_btn = driver.find_element(By.XPATH, f"//li[@data-num='{str(page_number)}']")
   next_page_btn.click()
   
@@ -44,7 +76,7 @@ def next_page(page_number):
 def scraper():
   page_number = 1
   try_search_doctors_btn_click = True
-  time.sleep(5)
+  time.sleep(3)
   while try_search_doctors_btn_click:
     try:
       search_doctors_btn_click()
@@ -57,7 +89,7 @@ def scraper():
     try_next_page = True
 
     while try_get_doctors_on_page:
-      time.sleep(6)
+      time.sleep(3)
       doctors = get_doctors_on_page()
       if len(doctors) > 0:
         try_get_doctors_on_page = False
@@ -68,7 +100,6 @@ def scraper():
     
     while try_next_page:
       try:
-        time.sleep(5)
         next_page(page_number)
         try_next_page = False
       except:
